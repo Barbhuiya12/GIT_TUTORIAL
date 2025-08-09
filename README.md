@@ -14,10 +14,13 @@ Welcome to this comprehensive Git and GitHub tutorial! This tutorial is designed
 8. [Advanced Git](08-Advanced-Git.md) - Powerful Git features and techniques
 9. [Beyond Code](09-Beyond-Code.md) - Git for non-code files and other use cases
 10. [Conclusion](10-Conclusion.md) - Next steps in your Git journey
+11. [Glossary](11-Glossary.md) - Key Git terms and definitions
+12. [Cheat Sheet](12-Cheat-Sheet.md) - Quick reference for Git commands
+13. [Practice Exercises](13-Practice-Exercises.md) - Hands-on activities to reinforce learning
 
 ## Tutorial Structure
 
-The tutorial is divided into 10 parts, each focusing on a specific aspect of Git and GitHub:
+The tutorial is divided into 13 parts, each focusing on a specific aspect of Git and GitHub:
 
 1. **Introduction** - Basic concepts and what Git is
 2. **First Steps** - Configuring Git and basic workflow
@@ -29,6 +32,9 @@ The tutorial is divided into 10 parts, each focusing on a specific aspect of Git
 8. **Advanced Git** - Powerful Git features and techniques
 9. **Beyond Code** - Git for non-code files and other use cases
 10. **Conclusion** - Next steps in your Git journey
+11. **Glossary** - Key Git terms and definitions
+12. **Cheat Sheet** - Quick reference for Git commands
+13. **Practice Exercises** - Hands-on activities to reinforce learning
 
 ## Prerequisites
 
